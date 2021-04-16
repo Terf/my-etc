@@ -1,2 +1,2 @@
-FROM haproxy:2.0
+FROM haproxy:2.3
 EXPOSE 80 443
